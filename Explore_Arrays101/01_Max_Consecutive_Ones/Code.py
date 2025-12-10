@@ -37,4 +37,9 @@ class Solution:
                 max_length = current_length
         
         return max_length
-                
+
+
+############################################
+############## big O notation ##############
+############################################
+# O(n),, n is length of list
